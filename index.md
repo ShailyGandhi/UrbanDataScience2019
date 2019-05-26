@@ -3,8 +3,6 @@
 
 The second summer school on Urban Data Science was conducted following the successful completion of the first summer school on Urban Data Science in 2018 which is an outcome of the collaboration which took place at The CODATA-RDA Research Data Science Summer School in Trieste, Italy 2017. This year the course Urban Data Science was hosted by the Summer Winter School CEPT University, Ahmedabad, India from May 13 - May 23, 2019.
 
-![Urban Data Science Summer School 2019](/Urban Data Science Summer School 2019.jpg){:height="70%" width="70%"}
-
 <img src="Urban Data Science Summer School 2019.jpg" width="600" height="400">
 
 With the upcoming trend of data driven solutions for use at the central level for making city operations more efficient and effective; the next generation of city planners will need to be as comfortable using advanced simulation algorithms as it is with design. This course helped to address the challenges with poor use of available open data in decision making while keeping urban in focus. This summer school course had been modified to get students started with the basic data science components in a short span of 10 days. This year the course had an additional 4 days which helped in making more insightful results from the open data sets that the last years 6 days course. Open data sets allows for a deeper understanding of the urban dynamics and its associated challenges, allowing the students to have a firmer control over possible bias and therefore analysing and giving solutions for overcoming these observed challenges.
@@ -17,8 +15,8 @@ The school begun with students understanding the concepts behind setting-up thei
 
 Innovative teaching techniques like mixing theory and practical’s with real life examples were followed in this course as it had diverse students attending and it required a special attention to keep the whole class on the same pace. Despite the course being intense from morning 9:30am till evening 5:30pm, it was very motivating to see the students following up with the topics and catching up with the pace of the instructors. To better understand the various levels of the 24 students, we conducted a pre and post summer school survey which gave us an idea about how well the school has changed the perspective of the students for programming in R to being confident in using Git and OpenRefine. Daily feedback was taken from the students similar to the last years practice to enhance class activity decisions by tutors. Continuous constructive comments from the students made it more effective as the tutors were able to achieve the desired output by changing the teaching method according to the requirement of the students. This process of understanding the capability of the students was well appreciated and implemented.
 
-![Urban Data Science Summer School 2019](/Students Feedback.jpg)
- 
+<img src="Students Feedback.jpg" width="600" height="400">
+
 Urban Data Science Summer School 2019 was well appreciated by the students and the outcomes of the course were very insightful with statistical evidence. The topics selected by the students and its frequency is shown in the below Word Cloud. Urban planning and decision making consists of insight—and this insights are collected and analysed using open data sets in other to know how things are in our environment today, which this course promoted deeply. The role of Urban Data Science is in enhancing Urban Planning and Policy-making with more data driven decisions which is in need at this time. The students of this summer school came up with wonderful insights and results. It was a great pleasure to receive outputs of the case study in various topics such as: Crime, the Economy, Education, Governance and Planning, Environment, Public Health, Road Accident, Sports, etc. 
  
  ![Urban Data Science Summer School 2019](/TopicWordCloud.jpg)
