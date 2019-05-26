@@ -3,7 +3,7 @@
 
 The second summer school on Urban Data Science was conducted following the successful completion of the first summer school on Urban Data Science in 2018 which is an outcome of the collaboration which took place at The CODATA-RDA Research Data Science Summer School in Trieste, Italy 2017. This year the course Urban Data Science was hosted by the Summer Winter School CEPT University, Ahmedabad, India from May 13 - May 23, 2019.
 
-![Urban Data Science Summer School 2019](/Urban Data Science Summer School 2019.jpg) {:height="700px" width="400px"}
+![Urban Data Science Summer School 2019](/Urban Data Science Summer School 2019.jpg){:height="70%" width="70%"}
 
 <img src="Urban Data Science Summer School 2019.jpg" width="600" height="400">
 
