@@ -1,5 +1,5 @@
-## Welcome to GitHub Pages
-##Instructors: Dr. Shaily R. Gandhi and Felix Emeka Anyiam 
+## Instructors: Dr. Shaily R. Gandhi and Felix Emeka Anyiam 
+
 
 
 
