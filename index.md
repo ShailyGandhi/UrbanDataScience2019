@@ -5,7 +5,7 @@ The second summer school on Urban Data Science was conducted following the succe
 
 ![Urban Data Science Summer School 2019]("/Urban Data Science Summer School 2019.jpg" height= 24px width= 48px)
 
-<img src="/Urban Data Science Summer School 2019.jpg" alt="alt text" width="250" height="250">
+<img src="/Urban Data Science Summer School 2019.jpg" alt="alt text" width="800" height="500">
 
 With the upcoming trend of data driven solutions for use at the central level for making city operations more efficient and effective; the next generation of city planners will need to be as comfortable using advanced simulation algorithms as it is with design. This course helped to address the challenges with poor use of available open data in decision making while keeping urban in focus. This summer school course had been modified to get students started with the basic data science components in a short span of 10 days. This year the course had an additional 4 days which helped in making more insightful results from the open data sets that the last years 6 days course. Open data sets allows for a deeper understanding of the urban dynamics and its associated challenges, allowing the students to have a firmer control over possible bias and therefore analysing and giving solutions for overcoming these observed challenges.
 
